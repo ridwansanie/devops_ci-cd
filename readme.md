@@ -12,17 +12,7 @@ What's in this project?
 
 ← script.js: If you're feeling fancy you can add interactivity to your site with JavaScript. The code in the JavaScript file runs when the page loads, and when the visitor clicks the button you can add below.
 
-Open each file and check out the comments (in gray) for more info.
 
-Try this next 🏗️
-Take a look in TODO.md for next steps you can try out in your new site!
 
 Want a minimal version of this project to build your own website? Check out Blank Website!
 
-Glitch
-
-You built this with Glitch!
-Glitch is a friendly community where millions of people come together to build web apps and websites.
-
-Need more help? Check out our Help Center for answers to any common questions.
-Ready to make it official? Become a paid Glitch member to boost your app with private sharing, more storage and memory, domains and more.
