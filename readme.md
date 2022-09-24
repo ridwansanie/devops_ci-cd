@@ -12,7 +12,7 @@ What's in this project?
 
 ← script.js: If you're feeling fancy you can add interactivity to your site with JavaScript. The code in the JavaScript file runs when the page loads, and when the visitor clicks the button you can add below.
 
-
+When i push code from Visual STudio to Github it will automatically deploy to github pages site
 
 Want a minimal version of this project to build your own website? Check out Blank Website!
 
